@@ -1,10 +1,8 @@
 #
-# This Is Free Tool By Soud Alanzi AKA @8Y
-# Dont Try Sell It Cuz It's Fucking Free
-# Github: https://github.com/Soud69
-# Instagram: https://instagram.com/8Y
-# Telegram: https://t.me/Soud69
-# Discord: Soud#5866
+# This Is Free Tool By Argeus professional AKA @Argeustools
+# Github: https://github.com/Argeustools
+# Instagram: https://instagram.com/Aargeus
+# Telegram: https://t.me/Argeustools
 #
 
 try:
