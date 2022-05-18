@@ -14,7 +14,7 @@ How to start  "cd unban-instagram"
 
 Method 1
 
-Self python unban-self.py
+python unban-self.py
 
 
 For more methods soon as possible
