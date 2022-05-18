@@ -1,10 +1,8 @@
 #
-# This Is Free Tool By Soud Alanzi AKA @8Y
-# Dont Try Sell It Cuz It's Fucking Free
-# Github: https://github.com/Soud69
-# Instagram: https://instagram.com/8Y
-# Telegram: https://t.me/Soud69
-# Discord: Soud#5866
+# This Is Free Tool By Soud Alanzi AKA @ARGEUS
+# Github: https://github.com/Argeustools
+# Instagram: https://instagram.com/aargeus
+# Telegram: https://t.me/Argeustools
 #
 
 try:
@@ -13,7 +11,7 @@ try:
     from os import system, path
     import threading
     import random
-    system("title " + "Soud Was Here - @8Y - Soud#5866")
+    system("title " + "Soud Was Here - @argeus 
     import colorama
     from colorama import Fore
     colorama.init(autoreset=True)
@@ -48,7 +46,7 @@ logo = f"""
 {Fore.GREEN} \___/|_| |_|_.__/ \__,_|_| |_|  \___/ \_____(_)___/                      
 """
 print(logo)
-print(f"{Fore.RED}This Is Free Tool By Soud Alanzi And Not For Sale\n\n{Fore.RESET}{Fore.GREEN}Instagram: @8Y + @_agf\nDiscord: Soud#5866\n")
+print(f"{Fore.RED}This Is Free Tool By Soud Alanzi && Argeus \n\n{Fore.RESET}{Fore.GREEN}Instagram: @8Y + @aargeus\nDiscord: Soud#5866\n")
 account_username = input("Username: ")
 account_full_name = input("Account Name: ")
 account_email = input("Email: ")
@@ -56,7 +54,7 @@ account_phone = int(input("Phone Number: "))
 message_contact = input("Contact Message (Leave It Empty To Use Default Message): ")
 
 if message_contact == "":
-    message_contact = "Hello Instagram Support, my account have been disabled by mistake, pls reactive it"
+    message_contact = ""
 threads_number = int(input("Threads: "))
 
 def unban():
