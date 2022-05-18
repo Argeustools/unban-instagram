@@ -14,12 +14,13 @@ How to start  "cd unban-instagram"
 
 Method 1
 
-Imper python unban-imper.py
-
-Method 2
-
 Self python unban-self.py
 
+
+For more methods soon as possible
+
+
+By @8y @Argeustools
 
 
 
