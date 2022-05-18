@@ -1,4 +1,5 @@
 how to use 
+
 Apt update && apt upgrade 
 
 Pkg install git 
