@@ -33,13 +33,15 @@ else:
 
 sent, spam, banned = 0, 0, 0
 logo = f"""
-{Fore.CYAN}         _______   __                                
-{Fore.CYAN}   ____ |  _  \ \ / /                                
-{Fore.CYAN}  / __ \ \ V / \ V /                                 
-{Fore.CYAN} / / _` |/ _ \  \ /                                  
-{Fore.CYAN}| | (_| | |_| | | |                                  
-{Fore.CYAN} \ \__,_\_____/ \_/                                  
-{Fore.CYAN}  \____/                                                                                          
+{Fore.CYAN}                                  
+{Fore.CYAN}   
+{Fore.CYAN}     A R G E U S       
+{Fore.CYAN}                  
+{Fore.CYAN}          PR0FESSIONAL                                          
+{Fore.CYAN}                               
+{Fore.CYAN}                                 
+{Fore.CYAN}                                   
+{Fore.CYAN}                                                                                          
 {Fore.GREEN} _   _       _                   _   _  _____  _____ 
 {Fore.GREEN}| | | |     | |                 | | | |/ __  \|  _  |
 {Fore.GREEN}| | | |_ __ | |__   __ _ _ __   | | | |`' / /'| |/' |
@@ -48,7 +50,7 @@ logo = f"""
 {Fore.GREEN} \___/|_| |_|_.__/ \__,_|_| |_|  \___/ \_____(_)___/                      
 """
 print(logo)
-print(f"{Fore.RED}This Is Free Tool By Soud Alanzi And Not For Sale\n\n{Fore.RESET}{Fore.GREEN}Instagram: @8Y + @_agf\nDiscord: Soud#5866\n")
+print(f"{Fore.RED}This tool for free unban imper\n\n{Fore.RESET}{Fore.GREEN}Instagram: @aargeus 
 account_username = input("Username: ")
 account_full_name = input("Account Name: ")
 account_email = input("Email: ")
@@ -56,7 +58,7 @@ account_phone = int(input("Phone Number: "))
 message_contact = input("Contact Message (Leave It Empty To Use Default Message): ")
 
 if message_contact == "":
-    message_contact = "Hello Instagram Support, my account have been disabled by mistake, pls reactive it"
+    message_contact = "Hello Instagram company my instagram account was disabled by mistake and I did not make any mistakes please help me and thank you" 
 threads_number = int(input("Threads: "))
 
 def unban():
